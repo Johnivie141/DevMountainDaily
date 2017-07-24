@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6707d894-01da-490f-91ac-5aa94d1cdf7b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jul24/ABCheck.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jul24/Disemvoweler.js" />
-    </list>
+    <list default="true" id="6707d894-01da-490f-91ac-5aa94d1cdf7b" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -19,11 +15,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ABCheck.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ABCheck.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Jul24/ABCheck.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="410">
-              <caret line="41" column="17" lean-forward="true" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
+            <state relative-caret-position="380">
+              <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
               <folding>
                 <element signature="n#!!doc;n#ABCheck#0" expanded="false" />
               </folding>
@@ -31,11 +27,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Disemvoweler.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Disemvoweler.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Jul24/Disemvoweler.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="13" column="17" lean-forward="true" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+            <state relative-caret-position="240">
+              <caret line="18" column="21" lean-forward="false" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
               <folding>
                 <element signature="n#!!doc;n#Disemvoweler#0" expanded="false" />
               </folding>
@@ -216,12 +212,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1500908696093</updated>
-      <workItem from="1500908697333" duration="930000" />
+      <workItem from="1500908697333" duration="1286000" />
     </task>
+    <task id="LOCAL-00001" summary="Testing WebStorm Commit">
+      <created>1500909969100</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1500909969100</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="930000" />
+    <option name="totallyTimeSpent" value="1286000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="41" y="23" width="1399" height="877" extended-state="6" />
@@ -251,27 +255,31 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Testing WebStorm Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Testing WebStorm Commit" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Jul24/ABCheck.js">
+    <entry file="file://$PROJECT_DIR$/Jul24/Disemvoweler.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="410">
-          <caret line="41" column="17" lean-forward="true" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
+        <state relative-caret-position="240">
+          <caret line="18" column="21" lean-forward="false" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
           <folding>
-            <element signature="n#!!doc;n#ABCheck#0" expanded="false" />
+            <element signature="n#!!doc;n#Disemvoweler#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Jul24/Disemvoweler.js">
+    <entry file="file://$PROJECT_DIR$/Jul24/ABCheck.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="13" column="17" lean-forward="true" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        <state relative-caret-position="380">
+          <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
           <folding>
-            <element signature="n#!!doc;n#Disemvoweler#0" expanded="false" />
+            <element signature="n#!!doc;n#ABCheck#0" expanded="false" />
           </folding>
         </state>
       </provider>
