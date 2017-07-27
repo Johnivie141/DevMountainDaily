@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6707d894-01da-490f-91ac-5aa94d1cdf7b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jul24/ShoppingList.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jul24/flipIt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jul24/reduceTest.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jul26/odingMeetUp1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jul26/pigLatin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jul26/prototypeTest.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jul27/PeteTheBaker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jul27/RemoveDupstep.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Jul26/odingMeetUp1.js" afterPath="$PROJECT_DIR$/Jul26/odingMeetUp1.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Jul26/pigLatin.js" afterPath="$PROJECT_DIR$/Jul26/pigLatin.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -22,95 +22,25 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ABCheck.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Jul24/ABCheck.js">
+      <file leaf-file-name="PeteTheBaker.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Jul27/PeteTheBaker.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="27" column="27" lean-forward="false" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
+            <state relative-caret-position="45">
+              <caret line="5" column="89" lean-forward="true" selection-start-line="5" selection-start-column="89" selection-end-line="5" selection-end-column="89" />
               <folding>
-                <element signature="n#!!doc;n#ABCheck#0" expanded="false" />
+                <element signature="n#!!doc;n#cakes#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Disemvoweler.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Jul24/Disemvoweler.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="26" column="17" lean-forward="false" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
-              <folding>
-                <element signature="n#!!doc;n#Disemvoweler#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FunkTown.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Jul24/FunkTown.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="10" column="20" lean-forward="false" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
-              <folding>
-                <element signature="n#!!doc;n#funkTown#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="flipIt.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Jul24/flipIt.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="24" column="37" lean-forward="false" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
-              <folding>
-                <element signature="n#!!doc;n#flipIt#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ShoppingList.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Jul24/ShoppingList.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#38#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="reduceTest.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Jul24/reduceTest.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="odingMeetUp1.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Jul26/odingMeetUp1.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="23" column="69" lean-forward="true" selection-start-line="23" selection-start-column="69" selection-end-line="23" selection-end-column="69" />
-              <folding>
-                <element signature="e#0#38#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pigLatin.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Jul26/pigLatin.js">
+      <file leaf-file-name="RemoveDupstep.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Jul27/RemoveDupstep.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
-              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <caret line="14" column="31" lean-forward="false" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
               <folding>
-                <element signature="n#!!doc;n#pigLatin#0" expanded="false" />
+                <element signature="n#!!doc;n#songDecoder#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -138,7 +68,10 @@
         <option value="$PROJECT_DIR$/Jul24/ShoppingList.js" />
         <option value="$PROJECT_DIR$/Jul24/reduceTest.js" />
         <option value="$PROJECT_DIR$/Jul26/pigLatin.js" />
+        <option value="$PROJECT_DIR$/Jul26/prototypeTest.js" />
         <option value="$PROJECT_DIR$/Jul26/odingMeetUp1.js" />
+        <option value="$PROJECT_DIR$/Jul27/RemoveDupstep.js" />
+        <option value="$PROJECT_DIR$/Jul27/PeteTheBaker.js" />
       </list>
     </option>
   </component>
@@ -149,9 +82,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="49" />
-    <option name="y" value="23" />
-    <option name="width" value="1391" />
+    <option name="x" value="187" />
+    <option name="y" value="106" />
+    <option name="width" value="1397" />
     <option name="height" value="877" />
   </component>
   <component name="ProjectView">
@@ -172,6 +105,20 @@
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DevMountainDaily" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DevMountainDaily" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Jul27" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="DevMountainDaily" />
@@ -231,20 +178,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.odingMeetUp1.js">
-    <configuration default="false" name="FunkTown.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="FunkTown.js" working-dir="$PROJECT_DIR$/Jul24">
-      <method />
-    </configuration>
-    <configuration default="false" name="flipIt.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="flipIt.js" working-dir="$PROJECT_DIR$/Jul24">
-      <method />
-    </configuration>
-    <configuration default="false" name="reduceTest.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="reduceTest.js" working-dir="$PROJECT_DIR$/Jul24">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Node.js.RemoveDupstep.js">
     <configuration default="false" name="odingMeetUp1.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="odingMeetUp1.js" working-dir="$PROJECT_DIR$/Jul26">
       <method />
     </configuration>
     <configuration default="false" name="pigLatin.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="pigLatin.js" working-dir="$PROJECT_DIR$/Jul26">
+      <method />
+    </configuration>
+    <configuration default="false" name="prototypeTest.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="prototypeTest.js" working-dir="$PROJECT_DIR$/Jul26">
+      <method />
+    </configuration>
+    <configuration default="false" name="PeteTheBaker.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="PeteTheBaker.js" working-dir="$PROJECT_DIR$/Jul27">
+      <method />
+    </configuration>
+    <configuration default="false" name="RemoveDupstep.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="RemoveDupstep.js" working-dir="$PROJECT_DIR$/Jul27">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -318,19 +265,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.Debugger" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.FunkTown.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.flipIt.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.reduceTest.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.odingMeetUp1.js" />
-      <item index="5" class="java.lang.String" itemvalue="Node.js.pigLatin.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.odingMeetUp1.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.pigLatin.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.prototypeTest.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.PeteTheBaker.js" />
+      <item index="5" class="java.lang.String" itemvalue="Node.js.RemoveDupstep.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.odingMeetUp1.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.pigLatin.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.reduceTest.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.flipIt.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.FunkTown.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.RemoveDupstep.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.odingMeetUp1.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.PeteTheBaker.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.prototypeTest.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.pigLatin.js" />
       </list>
     </recent_temporary>
   </component>
@@ -347,7 +294,7 @@
       <workItem from="1500908697333" duration="3497000" />
       <workItem from="1500913786510" duration="344000" />
       <workItem from="1500918360199" duration="5100000" />
-      <workItem from="1501081536297" duration="1409000" />
+      <workItem from="1501081536297" duration="4339000" />
     </task>
     <task id="LOCAL-00001" summary="Testing WebStorm Commit">
       <created>1500909969100</created>
@@ -360,17 +307,17 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10350000" />
+    <option name="totallyTimeSpent" value="13280000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="49" y="23" width="1391" height="877" extended-state="6" />
+    <frame x="187" y="106" width="1397" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24874191" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24767359" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32920793" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32920793" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -383,6 +330,24 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32920793" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24767359" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39975247" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="processedProjectFiles" value="true" />
@@ -566,12 +531,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Jul24/Disemvoweler.js">
+    <entry file="file://$PROJECT_DIR$/Jul24/flipIt.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="26" column="17" lean-forward="false" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
+        <state relative-caret-position="330">
+          <caret line="24" column="37" lean-forward="false" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
           <folding>
-            <element signature="n#!!doc;n#Disemvoweler#0" expanded="false" />
+            <element signature="n#!!doc;n#flipIt#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -586,12 +551,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Jul24/flipIt.js">
+    <entry file="file://$PROJECT_DIR$/Jul24/Disemvoweler.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="24" column="37" lean-forward="false" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
+        <state relative-caret-position="360">
+          <caret line="26" column="17" lean-forward="false" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
           <folding>
-            <element signature="n#!!doc;n#flipIt#0" expanded="false" />
+            <element signature="n#!!doc;n#Disemvoweler#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -606,16 +571,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Jul26/pigLatin.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc;n#pigLatin#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Jul24/reduceTest.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -626,10 +581,50 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Jul26/odingMeetUp1.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="23" column="69" lean-forward="true" selection-start-line="23" selection-start-column="69" selection-end-line="23" selection-end-column="69" />
+        <state relative-caret-position="320">
+          <caret line="27" column="90" lean-forward="false" selection-start-line="27" selection-start-column="90" selection-end-line="27" selection-end-column="90" />
           <folding>
             <element signature="e#0#38#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jul26/pigLatin.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="41" column="18" lean-forward="false" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="43" />
+          <folding>
+            <element signature="n#!!doc;n#pigLatin#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jul26/prototypeTest.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#38#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jul27/PeteTheBaker.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="5" column="89" lean-forward="true" selection-start-line="5" selection-start-column="89" selection-end-line="5" selection-end-column="89" />
+          <folding>
+            <element signature="n#!!doc;n#cakes#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jul27/RemoveDupstep.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="14" column="31" lean-forward="false" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+          <folding>
+            <element signature="n#!!doc;n#songDecoder#0" expanded="false" />
           </folding>
         </state>
       </provider>

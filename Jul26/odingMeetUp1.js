@@ -25,7 +25,7 @@ var list1 = [
 
 function codingMeetup(array){
 
-   return array.filter((x)=>{ return x.continent==='Europe' && x.language==="JavaScript";}).length;
+   return array.filter((x)=>{ return x.continent==='Europe' && x.language==="JavaScript"}).length;
 
 
 }
