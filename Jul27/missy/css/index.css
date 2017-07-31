@@ -1,0 +1,35 @@
+
+box{
+    height:70px;
+    width:100px;
+    background-color:pink;
+    border:1px solid black;
+    display:block;
+    text-align:center;
+    padding-top:20px;
+    cursor:pointer;
+    margin:10px;
+}
+.toggle {
+    background-color:yellow;
+}
+expand {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 15px;
+  border: 1px solid gray;
+  margin: 15px auto;
+  width: 50%;
+  background-color: #AAA;
+  cursor:pointer;
+}
+hidediv div{
+    height:50px;
+    width:50px;
+    background-color:red;
+}
+#text{
+    height:100px;
+}

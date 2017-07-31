@@ -16,3 +16,14 @@ var ans= songDecoder("WUBWUBIWUBAMWUBWUBX");
 console.log("[" + ans + "]");
 ans =songDecoder("WUBWEWUBAREWUBWUBTHEWUBCHAMPIONSWUBMYWUBFRIENDWUB");
 console.log("[" + ans+ "]");
+
+// split('WUB') we can send in a string value into split()
+
+var x={
+    y:{
+        a:"string1"
+    },
+    z:"test",
+
+}
+console.log(x.y.a);

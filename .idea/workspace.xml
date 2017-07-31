@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6707d894-01da-490f-91ac-5aa94d1cdf7b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jul26/prototypeTest.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jul27/PeteTheBaker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jul27/RemoveDupstep.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jul31/ConstructorFunction.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Jul26/odingMeetUp1.js" afterPath="$PROJECT_DIR$/Jul26/odingMeetUp1.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Jul26/pigLatin.js" afterPath="$PROJECT_DIR$/Jul26/pigLatin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Jul27/RemoveDupstep.js" afterPath="$PROJECT_DIR$/Jul27/RemoveDupstep.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -26,7 +23,7 @@
         <entry file="file://$PROJECT_DIR$/Jul27/PeteTheBaker.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
-              <caret line="5" column="89" lean-forward="true" selection-start-line="5" selection-start-column="89" selection-end-line="5" selection-end-column="89" />
+              <caret line="5" column="89" lean-forward="false" selection-start-line="5" selection-start-column="89" selection-end-line="5" selection-end-column="89" />
               <folding>
                 <element signature="n#!!doc;n#cakes#0" expanded="false" />
               </folding>
@@ -34,13 +31,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RemoveDupstep.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="RemoveDupstep.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Jul27/RemoveDupstep.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="14" column="31" lean-forward="false" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+            <state relative-caret-position="300">
+              <caret line="22" column="7" lean-forward="false" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
               <folding>
                 <element signature="n#!!doc;n#songDecoder#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConstructorFunction.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Jul31/ConstructorFunction.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="439">
+              <caret line="42" column="16" lean-forward="false" selection-start-line="42" selection-start-column="16" selection-end-line="42" selection-end-column="16" />
+              <folding>
+                <element signature="e#0#38#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -70,8 +79,9 @@
         <option value="$PROJECT_DIR$/Jul26/pigLatin.js" />
         <option value="$PROJECT_DIR$/Jul26/prototypeTest.js" />
         <option value="$PROJECT_DIR$/Jul26/odingMeetUp1.js" />
-        <option value="$PROJECT_DIR$/Jul27/RemoveDupstep.js" />
         <option value="$PROJECT_DIR$/Jul27/PeteTheBaker.js" />
+        <option value="$PROJECT_DIR$/Jul27/RemoveDupstep.js" />
+        <option value="$PROJECT_DIR$/Jul31/ConstructorFunction.js" />
       </list>
     </option>
   </component>
@@ -81,10 +91,14 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/Jul28/my-first-react-app/node_modules" />
+    <handled-path value="$PROJECT_DIR$/Jul31/react-intro-class/node_modules" />
+  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="187" />
-    <option name="y" value="106" />
-    <option name="width" value="1397" />
+    <option name="x" value="46" />
+    <option name="y" value="23" />
+    <option name="width" value="1394" />
     <option name="height" value="877" />
   </component>
   <component name="ProjectView">
@@ -102,9 +116,32 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DevMountainDaily" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DevMountainDaily" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Jul31" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DevMountainDaily" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DevMountainDaily" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="DevMountainDaily" />
@@ -142,16 +179,6 @@
               <option name="myItemId" value="DevMountainDaily" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DevMountainDaily" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DevMountainDaily" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Jul24" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
@@ -159,12 +186,14 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -178,11 +207,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.RemoveDupstep.js">
+  <component name="RunManager" selected="Node.js.ConstructorFunction.js">
     <configuration default="false" name="odingMeetUp1.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="odingMeetUp1.js" working-dir="$PROJECT_DIR$/Jul26">
-      <method />
-    </configuration>
-    <configuration default="false" name="pigLatin.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="pigLatin.js" working-dir="$PROJECT_DIR$/Jul26">
       <method />
     </configuration>
     <configuration default="false" name="prototypeTest.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="prototypeTest.js" working-dir="$PROJECT_DIR$/Jul26">
@@ -192,6 +218,9 @@
       <method />
     </configuration>
     <configuration default="false" name="RemoveDupstep.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="RemoveDupstep.js" working-dir="$PROJECT_DIR$/Jul27">
+      <method />
+    </configuration>
+    <configuration default="false" name="ConstructorFunction.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="ConstructorFunction.js" working-dir="$PROJECT_DIR$/Jul31">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -266,18 +295,18 @@
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.Debugger" />
       <item index="1" class="java.lang.String" itemvalue="Node.js.odingMeetUp1.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.pigLatin.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.prototypeTest.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.PeteTheBaker.js" />
-      <item index="5" class="java.lang.String" itemvalue="Node.js.RemoveDupstep.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.prototypeTest.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.PeteTheBaker.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.RemoveDupstep.js" />
+      <item index="5" class="java.lang.String" itemvalue="Node.js.ConstructorFunction.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.RemoveDupstep.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.odingMeetUp1.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.PeteTheBaker.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.prototypeTest.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.pigLatin.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.ConstructorFunction.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.RemoveDupstep.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.odingMeetUp1.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.PeteTheBaker.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.prototypeTest.js" />
       </list>
     </recent_temporary>
   </component>
@@ -294,7 +323,9 @@
       <workItem from="1500908697333" duration="3497000" />
       <workItem from="1500913786510" duration="344000" />
       <workItem from="1500918360199" duration="5100000" />
-      <workItem from="1501081536297" duration="4339000" />
+      <workItem from="1501081536297" duration="5451000" />
+      <workItem from="1501263599912" duration="219000" />
+      <workItem from="1501514613234" duration="3213000" />
     </task>
     <task id="LOCAL-00001" summary="Testing WebStorm Commit">
       <created>1500909969100</created>
@@ -307,21 +338,20 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13280000" />
+    <option name="totallyTimeSpent" value="17824000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="187" y="106" width="1397" height="877" extended-state="0" />
-    <editor active="true" />
+    <frame x="46" y="23" width="1394" height="877" extended-state="1" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24767359" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24748924" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32920793" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32920793" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39975247" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -373,6 +403,46 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Jul27/PeteTheBaker.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="5" column="89" lean-forward="false" selection-start-line="5" selection-start-column="89" selection-end-line="5" selection-end-column="89" />
+          <folding>
+            <element signature="n#!!doc;n#cakes#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jul27/RemoveDupstep.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc;n#songDecoder#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jul27/PeteTheBaker.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="5" column="89" lean-forward="false" selection-start-line="5" selection-start-column="89" selection-end-line="5" selection-end-column="89" />
+          <folding>
+            <element signature="n#!!doc;n#cakes#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jul27/RemoveDupstep.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc;n#songDecoder#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Jul24/ABCheck.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
@@ -407,9 +477,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="24" column="37" lean-forward="false" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
-          <folding>
-            <element signature="n#!!doc;n#flipIt#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -417,9 +484,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#38#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -465,9 +529,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="24" column="37" lean-forward="false" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
-          <folding>
-            <element signature="n#!!doc;n#flipIt#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -475,9 +536,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#38#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -515,9 +573,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="24" column="37" lean-forward="false" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
-          <folding>
-            <element signature="n#!!doc;n#flipIt#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -535,9 +590,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="24" column="37" lean-forward="false" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
-          <folding>
-            <element signature="n#!!doc;n#flipIt#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -565,9 +617,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#38#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -603,16 +652,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#38#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Jul27/PeteTheBaker.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
-          <caret line="5" column="89" lean-forward="true" selection-start-line="5" selection-start-column="89" selection-end-line="5" selection-end-column="89" />
+          <caret line="5" column="89" lean-forward="false" selection-start-line="5" selection-start-column="89" selection-end-line="5" selection-end-column="89" />
           <folding>
             <element signature="n#!!doc;n#cakes#0" expanded="false" />
           </folding>
@@ -621,10 +667,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Jul27/RemoveDupstep.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="14" column="31" lean-forward="false" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+        <state relative-caret-position="300">
+          <caret line="22" column="7" lean-forward="false" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
           <folding>
             <element signature="n#!!doc;n#songDecoder#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jul31/ConstructorFunction.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="439">
+          <caret line="42" column="16" lean-forward="false" selection-start-line="42" selection-start-column="16" selection-end-line="42" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#38#0" expanded="false" />
           </folding>
         </state>
       </provider>
