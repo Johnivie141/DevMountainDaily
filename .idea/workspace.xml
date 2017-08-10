@@ -2,9 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6707d894-01da-490f-91ac-5aa94d1cdf7b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jul31/ConstructorFunction.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Aug01/ChangeCase.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Aug01/VowelCounter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Aug02/CharacterCountdown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Aug02/SquareEachDigit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Aug03/iccanofiF.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Aug07/HumanReadableTime.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Aug07/StringNumbers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Aug08/DirectionsReduction.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Aug08/FoldToMoon.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Aug09/LeetSpeech.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Aug09/RGBToHex.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Aug10/sortArray.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Aug01/theme-changer" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jul31/showcase" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Jul27/RemoveDupstep.js" afterPath="$PROJECT_DIR$/Jul27/RemoveDupstep.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,44 +31,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="PeteTheBaker.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Jul27/PeteTheBaker.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="5" column="89" lean-forward="false" selection-start-line="5" selection-start-column="89" selection-end-line="5" selection-end-column="89" />
-              <folding>
-                <element signature="n#!!doc;n#cakes#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RemoveDupstep.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Jul27/RemoveDupstep.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="22" column="7" lean-forward="false" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
-              <folding>
-                <element signature="n#!!doc;n#songDecoder#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ConstructorFunction.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Jul31/ConstructorFunction.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="439">
-              <caret line="42" column="16" lean-forward="false" selection-start-line="42" selection-start-column="16" selection-end-line="42" selection-end-column="16" />
-              <folding>
-                <element signature="e#0#38#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -82,23 +58,48 @@
         <option value="$PROJECT_DIR$/Jul27/PeteTheBaker.js" />
         <option value="$PROJECT_DIR$/Jul27/RemoveDupstep.js" />
         <option value="$PROJECT_DIR$/Jul31/ConstructorFunction.js" />
+        <option value="$PROJECT_DIR$/Aug01/ChangeCase.js" />
+        <option value="$PROJECT_DIR$/Aug01/VowelCounter.js" />
+        <option value="$PROJECT_DIR$/Aug02/SquareEachDigit.js" />
+        <option value="$PROJECT_DIR$/Aug02/CharacterCountdown.js" />
+        <option value="$PROJECT_DIR$/Aug03/iccanofiF.js" />
+        <option value="$PROJECT_DIR$/Aug03/SelectiveArrayReversal.js" />
+        <option value="$PROJECT_DIR$/Aug07/HumanReadableTime.js" />
+        <option value="$PROJECT_DIR$/Aug07/StringNumbers.js" />
+        <option value="$PROJECT_DIR$/Aug08/FoldToMoon.js" />
+        <option value="$PROJECT_DIR$/Aug08/DirectionsReduction.js" />
+        <option value="$PROJECT_DIR$/Aug09/LeetSpeech.js" />
+        <option value="$PROJECT_DIR$/Aug09/RGBToHex.js" />
+        <option value="$PROJECT_DIR$/Aug10/sortArray.js" />
       </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>true</other-services-enabled>
+  </component>
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/Aug01/calculator/node_modules" />
+    <handled-path value="$PROJECT_DIR$/Aug01/learning/node_modules" />
+    <handled-path value="$PROJECT_DIR$/Aug01/react-day2-26/node_modules" />
+    <handled-path value="$PROJECT_DIR$/Aug02/http-app1a/node_modules" />
+    <handled-path value="$PROJECT_DIR$/Aug04/testapp1/node_modules" />
     <handled-path value="$PROJECT_DIR$/Jul28/my-first-react-app/node_modules" />
-    <handled-path value="$PROJECT_DIR$/Jul31/react-intro-class/node_modules" />
+    <handled-path value="$PROJECT_DIR$/Jul31/react-intro26/node_modules" />
+    <handled-path value="$PROJECT_DIR$/http-app1/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="46" />
-    <option name="y" value="23" />
-    <option name="width" value="1394" />
+    <option name="x" value="565" />
+    <option name="y" value="114" />
+    <option name="width" value="1399" />
     <option name="height" value="877" />
   </component>
   <component name="ProjectView">
@@ -116,6 +117,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -127,20 +129,6 @@
               <option name="myItemId" value="DevMountainDaily" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Jul31" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DevMountainDaily" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DevMountainDaily" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -152,7 +140,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Jul27" />
+              <option name="myItemId" value="Aug09" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -166,34 +154,22 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Jul26" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DevMountainDaily" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DevMountainDaily" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Jul24" />
+              <option name="myItemId" value="Aug02" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+    <property name="JavaScriptPreferStrict" value="false" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -207,20 +183,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.ConstructorFunction.js">
-    <configuration default="false" name="odingMeetUp1.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="odingMeetUp1.js" working-dir="$PROJECT_DIR$/Jul26">
+  <component name="RunManager" selected="Node.js.sortArray.js">
+    <configuration default="false" name="FoldToMoon.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="FoldToMoon.js" working-dir="$PROJECT_DIR$/Aug08">
       <method />
     </configuration>
-    <configuration default="false" name="prototypeTest.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="prototypeTest.js" working-dir="$PROJECT_DIR$/Jul26">
+    <configuration default="false" name="DirectionsReduction.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="DirectionsReduction.js" working-dir="$PROJECT_DIR$/Aug08">
       <method />
     </configuration>
-    <configuration default="false" name="PeteTheBaker.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="PeteTheBaker.js" working-dir="$PROJECT_DIR$/Jul27">
+    <configuration default="false" name="LeetSpeech.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="LeetSpeech.js" working-dir="$PROJECT_DIR$/Aug09">
       <method />
     </configuration>
-    <configuration default="false" name="RemoveDupstep.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="RemoveDupstep.js" working-dir="$PROJECT_DIR$/Jul27">
+    <configuration default="false" name="RGBToHex.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="RGBToHex.js" working-dir="$PROJECT_DIR$/Aug09">
       <method />
     </configuration>
-    <configuration default="false" name="ConstructorFunction.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="ConstructorFunction.js" working-dir="$PROJECT_DIR$/Jul31">
+    <configuration default="false" name="sortArray.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="sortArray.js" working-dir="$PROJECT_DIR$/Aug10">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -294,19 +270,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.Debugger" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.odingMeetUp1.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.prototypeTest.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.PeteTheBaker.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.RemoveDupstep.js" />
-      <item index="5" class="java.lang.String" itemvalue="Node.js.ConstructorFunction.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.FoldToMoon.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.DirectionsReduction.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.LeetSpeech.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.RGBToHex.js" />
+      <item index="5" class="java.lang.String" itemvalue="Node.js.sortArray.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.ConstructorFunction.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.RemoveDupstep.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.odingMeetUp1.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.PeteTheBaker.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.prototypeTest.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.sortArray.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.RGBToHex.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.LeetSpeech.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.DirectionsReduction.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.FoldToMoon.js" />
       </list>
     </recent_temporary>
   </component>
@@ -325,7 +301,12 @@
       <workItem from="1500918360199" duration="5100000" />
       <workItem from="1501081536297" duration="5451000" />
       <workItem from="1501263599912" duration="219000" />
-      <workItem from="1501514613234" duration="3213000" />
+      <workItem from="1501514613234" duration="9512000" />
+      <workItem from="1501772363883" duration="1776000" />
+      <workItem from="1501916028224" duration="6000" />
+      <workItem from="1502119112917" duration="1084000" />
+      <workItem from="1502204628765" duration="1687000" />
+      <workItem from="1502291913716" duration="3118000" />
     </task>
     <task id="LOCAL-00001" summary="Testing WebStorm Commit">
       <created>1500909969100</created>
@@ -338,20 +319,20 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17824000" />
+    <option name="totallyTimeSpent" value="31794000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="46" y="23" width="1394" height="877" extended-state="1" />
+    <frame x="565" y="114" width="1399" height="877" extended-state="0" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24748924" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24731952" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32920793" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32920793" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39975247" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39975247" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -407,19 +388,48 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="5" column="89" lean-forward="false" selection-start-line="5" selection-start-column="89" selection-end-line="5" selection-end-column="89" />
-          <folding>
-            <element signature="n#!!doc;n#cakes#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Jul27/RemoveDupstep.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc;n#songDecoder#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="300">
+          <caret line="22" column="7" lean-forward="false" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jul31/ConstructorFunction.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="42" column="16" lean-forward="false" selection-start-line="42" selection-start-column="16" selection-end-line="42" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aug01/ChangeCase.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="17" lean-forward="false" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aug01/VowelCounter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="28" lean-forward="false" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aug02/SquareEachDigit.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aug02/CharacterCountdown.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="26" column="29" lean-forward="true" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
         </state>
       </provider>
     </entry>
@@ -427,9 +437,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="5" column="89" lean-forward="false" selection-start-line="5" selection-start-column="89" selection-end-line="5" selection-end-column="89" />
-          <folding>
-            <element signature="n#!!doc;n#cakes#0" expanded="false" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jul27/RemoveDupstep.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jul27/PeteTheBaker.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="5" column="89" lean-forward="false" selection-start-line="5" selection-start-column="89" selection-end-line="5" selection-end-column="89" />
         </state>
       </provider>
     </entry>
@@ -437,9 +458,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc;n#songDecoder#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -447,9 +465,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="27" column="27" lean-forward="false" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
-          <folding>
-            <element signature="n#!!doc;n#ABCheck#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -457,9 +472,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="26" column="17" lean-forward="false" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
-          <folding>
-            <element signature="n#!!doc;n#Disemvoweler#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -491,7 +503,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -499,9 +510,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="27" column="27" lean-forward="false" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
-          <folding>
-            <element signature="n#!!doc;n#ABCheck#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -509,9 +517,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="26" column="17" lean-forward="false" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
-          <folding>
-            <element signature="n#!!doc;n#Disemvoweler#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -543,9 +548,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="27" column="27" lean-forward="true" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
-          <folding>
-            <element signature="n#!!doc;n#ABCheck#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -553,9 +555,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="26" column="17" lean-forward="true" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
-          <folding>
-            <element signature="n#!!doc;n#Disemvoweler#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -580,9 +579,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="27" column="27" lean-forward="false" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
-          <folding>
-            <element signature="n#!!doc;n#ABCheck#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -607,9 +603,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="26" column="17" lean-forward="false" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
-          <folding>
-            <element signature="n#!!doc;n#Disemvoweler#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -624,7 +617,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -632,9 +624,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
           <caret line="27" column="90" lean-forward="false" selection-start-line="27" selection-start-column="90" selection-end-line="27" selection-end-column="90" />
-          <folding>
-            <element signature="e#0#38#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -642,9 +631,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="585">
           <caret line="41" column="18" lean-forward="false" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="43" />
-          <folding>
-            <element signature="n#!!doc;n#pigLatin#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -659,9 +645,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="5" column="89" lean-forward="false" selection-start-line="5" selection-start-column="89" selection-end-line="5" selection-end-column="89" />
-          <folding>
-            <element signature="n#!!doc;n#cakes#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -669,19 +652,119 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="22" column="7" lean-forward="false" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
-          <folding>
-            <element signature="n#!!doc;n#songDecoder#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Jul31/ConstructorFunction.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="439">
+        <state relative-caret-position="600">
           <caret line="42" column="16" lean-forward="false" selection-start-line="42" selection-start-column="16" selection-end-line="42" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aug01/ChangeCase.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="17" lean-forward="false" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aug01/VowelCounter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="28" lean-forward="false" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aug02/SquareEachDigit.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aug02/CharacterCountdown.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="26" column="29" lean-forward="false" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aug03/SelectiveArrayReversal.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" column="31" lean-forward="true" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aug03/iccanofiF.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aug07/HumanReadableTime.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="51" lean-forward="false" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aug07/StringNumbers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="27" column="25" lean-forward="false" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
           <folding>
-            <element signature="e#0#38#0" expanded="false" />
+            <element signature="n#!!doc;n#stringNumber#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aug08/FoldToMoon.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="17" lean-forward="false" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aug08/DirectionsReduction.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="50" lean-forward="false" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="50" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aug09/LeetSpeech.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#37#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aug09/RGBToHex.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="22" column="30" lean-forward="true" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+          <folding>
+            <element signature="n#!!doc;n#decRGB#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aug10/sortArray.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="12" column="37" lean-forward="true" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+          <folding />
         </state>
       </provider>
     </entry>

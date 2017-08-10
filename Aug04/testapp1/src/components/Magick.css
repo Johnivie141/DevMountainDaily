@@ -1,0 +1,71 @@
+
+
+.selectedPC{
+    height:calc(311px *0.5);
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    padding-bottom:10px;
+ 
+}
+.playerCards{
+    display:flex;
+    align-items:center;
+    justify-content:center; 
+}
+.selectedPlayer{
+    height:calc(311px *0.5);
+    width:100vw;
+ 
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    padding-bottom:10px
+}
+a,a:hover, a:visited,a:active
+{
+text-decoration:none;
+
+}
+
+
+
+
+.cardImage{
+    position:relative;
+    
+    -moz-transform:scale(0.5);
+   
+    -webkit-transform:scale(0.5);
+  
+    transform:scale(0.5);
+
+}
+.cardImage:hover{
+    -moz-transform:scale(1.5);
+-webkit-transform:scale(1.5);
+transform:scale(1.5);
+}
+
+
+
+
+.cardSpan{
+    height:calc(311px *0.5);
+    
+}
+
+.main{
+   padding-top:50px;
+   
+   width:100vw;
+  
+}
+
+
+
+.deck{
+    text-align:center;    
+    width:50vw;
+
+}
