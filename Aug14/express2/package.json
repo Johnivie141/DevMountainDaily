@@ -1,0 +1,12 @@
+{
+ "name": "secondapp",
+ "description": "This is an app built following the tutorial",
+ "version": "0.0.2",
+ "dependencies": {
+  "express": "3.x",
+  "hbs": "*"
+ },
+ "scripts": {
+  "start": "node src/app.js"
+ }
+}
